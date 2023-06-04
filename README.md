@@ -21,6 +21,10 @@ Find the coefficients using .coef_ and intercept using .intercept_ .
 ## Step5
 Predict the liner regression using regr.predict() method and display the result.
 
+```
+NAME : DEVADARSHAN A S
+REG NO : 212222110007
+```
 ## Program:
 ```
 import pandas as pd
